@@ -1,4 +1,4 @@
-var add = function(number1, number2) {
+/*var add = function(number1, number2) {
   return number1 + number2;
 };
 
@@ -31,3 +31,19 @@ var number2 = parseInt(prompt("Enter another number: "));
 var result = divide(number1, number2);
 
 alert(result);
+
+*/
+
+$(document).ready(function() {
+  $("h1").click(function() {
+    alert("This is a header.");
+  });
+
+  $("p").click(function() {
+    alert("This is a paragraph.");
+  });
+
+  $("img").click(function() {
+    alert("This is an image.");
+  });
+});
