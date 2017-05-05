@@ -2,7 +2,7 @@
 
 #### _Javascript exercise on Epicodus, May 5 2017_
 
-#### By _**By Jamal**_
+#### By _**Jamal**_
 
 ## Description
 
